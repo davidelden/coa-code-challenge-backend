@@ -1,0 +1,27 @@
+{
+  "name": "coa-code-challenge-backend",
+  "version": "1.0.0",
+  "description": "API to fetch GTFS data  ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wedesignstudios/coa-code-challenge-backend.git"
+  },
+  "keywords": [
+    "GTFS",
+    "nodejs",
+    "api",
+    "knexjs"
+  ],
+  "author": "David Elden",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/wedesignstudios/coa-code-challenge-backend#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "knex": "^0.15.0",
+    "pg": "^7.4.3"
+  }
+}
