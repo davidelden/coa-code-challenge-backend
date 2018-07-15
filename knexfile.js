@@ -26,8 +26,7 @@ module.exports = {
     },
     seeds: {
       directory: './seeds'
-    },
-    ssl: true
+    }
   },
 
   production: {
@@ -39,8 +38,7 @@ module.exports = {
     },
     seeds: {
       directory: './seeds'
-    },
-    ssl: true
+    }
   }
 
 };
