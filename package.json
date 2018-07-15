@@ -1,10 +1,12 @@
 {
   "name": "coa-code-challenge-backend",
   "version": "1.0.0",
-  "description": "API to fetch GTFS data  ",
+  "description": "API to fetch GTFS data",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "start-dev": "export NODE_ENV=development; export DATABASE_URL=postgres://localhost:5432/coa_gtfs_cap_metro_data; node ./bin/www",
+    "test": "mocha tests/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,10 @@
     "knex": "^0.15.0",
     "pg": "^7.4.3",
     "postgraphile": "^4.0.0-rc.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
   }
 }
