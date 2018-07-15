@@ -4,7 +4,7 @@
   "description": "API to fetch GTFS data",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node ./bin/www",
     "start-dev": "export NODE_ENV=development; export DATABASE_URL=postgres://localhost:5432/coa_gtfs_cap_metro_data; node ./bin/www",
     "test": "mocha tests/*.test.js"
   },
