@@ -31,7 +31,7 @@ This is a solution for the [dtif-dev-challenges](https://github.com/cityofaustin
 
 ---
 
-~~### Postman~~
+~~Postman~~
 
 ~~Using [Postman](https://www.getpostman.com/) send a POST request to endpoint:~~
 
