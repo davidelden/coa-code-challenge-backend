@@ -11,7 +11,7 @@ This is a solution for the [dtif-dev-challenges](https://github.com/cityofaustin
 
 Navigate to:
 
-~~[https://coa-code-challenge.herokuapp.com/graphiql](https://coa-code-challenge.herokuapp.com/graphiql)~~
+~~[https://coa-code-challenge.herokuapp.com/graphiql]~~
 
 Then, perform Graphql queries on GTFS data for CapMetro routes.
 
