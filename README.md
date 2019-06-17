@@ -9,11 +9,11 @@ This is a solution for the [dtif-dev-challenges](https://github.com/cityofaustin
 
 ### Graphiql
 
-Navigate to:
+~~Navigate to:~~
 
-~~[https://coa-code-challenge.herokuapp.com/graphiql]~~
+~~https://coa-code-challenge.herokuapp.com/graphiql~~
 
-Then, perform Graphql queries on GTFS data for CapMetro routes.
+~~Then, perform Graphql queries on GTFS data for CapMetro routes.~~
 
 #### Examples
 
@@ -31,13 +31,13 @@ Then, perform Graphql queries on GTFS data for CapMetro routes.
 
 ---
 
-### Postman
+~~### Postman
 
-Using [Postman](https://www.getpostman.com/) send a POST request to endpoint:
+~~Using [Postman](https://www.getpostman.com/) send a POST request to endpoint:
 
-[https://coa-code-challenge.herokuapp.com/graphql](https://coa-code-challenge.herokuapp.com/graphql)
+~~https://coa-code-challenge.herokuapp.com/graphql~~
 
-Make sure to send a raw request with Content-Type as application/json
+~~Make sure to send a raw request with Content-Type as application/json~~
 
 #### Examples
 
