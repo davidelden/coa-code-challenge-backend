@@ -31,9 +31,9 @@ This is a solution for the [dtif-dev-challenges](https://github.com/cityofaustin
 
 ---
 
-~~### Postman
+~~### Postman~~
 
-~~Using [Postman](https://www.getpostman.com/) send a POST request to endpoint:
+~~Using [Postman](https://www.getpostman.com/) send a POST request to endpoint:~~
 
 ~~https://coa-code-challenge.herokuapp.com/graphql~~
 
